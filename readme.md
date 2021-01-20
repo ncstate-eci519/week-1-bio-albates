@@ -1,4 +1,4 @@
-# [Change to your name]
+# [Angela Bates]
 
 ## About Me
-Put a brief bio here about you. Use a few **bold** and _italic_ words and maybe a [link or two](http://www.google.com).
+I live in the foothills of western North Carolina. (https://www.nctripping.com/western-north-carolina/)  Currently, I teach  high school social studies. I have taught high school for <b>17 years</b> and love it!  In my free time I like to read legal <i>thrillers, bake, hike </i> and <i>travel</i>. As a social studies teacher, two of my most favorite places to tour have been the United Nations and the Supreme Court.  Last summer, I was able to visit Jefferson's Monticello.  (https://www.monticello.org/) I am looking forward to this class.  Coding is an area in which I have a growing interest. I see this as an opportunity to grow, while building my coding skills. Once I finish my master's degree, I hope to take more classes or enroll in <b>coding bootcamps</b> to further my skills.
